@@ -1,5 +1,4 @@
-# uniquerandom
-Generate Unique Random Data in Apache JMeter
+# Generate Unique Random Data in Apache JMeter
 
 In this JMeter tutorial, you are going to learn my simple trick about how to create unique random data parameterization in JMeter. Data parameterization is must to have in the test plan to simulate real world scenario. It is a good practice to test the performance of the application by having more realistic sets of data in the script. There are lots of tutorials available in internet about data parameterization in JMeter, but this article explains a simple way to create unique random data parameterization in JMeter.
 
